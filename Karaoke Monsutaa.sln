@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karaoke Monsutaa", "Karaoke Monsutaa\Karaoke Monsutaa.csproj", "{621DC42E-380C-48CD-A3CD-E4C8B2DC18C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmlaunch", "kmlaunch\kmlaunch.csproj", "{336452DC-694A-4289-B031-C01EAC461906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621DC42E-380C-48CD-A3CD-E4C8B2DC18C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621DC42E-380C-48CD-A3CD-E4C8B2DC18C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621DC42E-380C-48CD-A3CD-E4C8B2DC18C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621DC42E-380C-48CD-A3CD-E4C8B2DC18C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336452DC-694A-4289-B031-C01EAC461906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336452DC-694A-4289-B031-C01EAC461906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336452DC-694A-4289-B031-C01EAC461906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336452DC-694A-4289-B031-C01EAC461906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
